@@ -1,0 +1,16 @@
+{
+  "hobbies": [
+    {
+      "name": "listening to music",
+      "id": 1
+    },
+    {
+      "name": "playing football",
+      "id": 2
+    },
+    {
+      "name": "travelling",
+      "id": 3
+    }
+  ]
+}
